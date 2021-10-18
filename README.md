@@ -1,2 +1,2 @@
-# cvHtml
+# ResumeHtml
 Resume in html.
